@@ -1,1 +1,2 @@
-
+## RISC-V Processor Pipeline Simulation and Analysis
+This simulation represents a RISC-V processor executing instructions in a pipelined architecture. The waveform shows how instructions move through different pipeline stages—Fetch, Decode, Execute, Memory, and Writeback—while the clock signal synchronizes their execution. Key signals, such as instruction registers, ALU outputs, and program counters, help track the flow of data. The presence of valid instruction addresses indicates that the processor is actively fetching and executing commands, while some ‘xxxx’ values suggest uninitialized or stalled states. This simulation helps analyze the processor's behavior, identify potential hazards, and verify correct execution of instructions.

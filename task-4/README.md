@@ -4,4 +4,4 @@ This simulation represents a RISC-V processor executing instructions in a pipeli
 
 ![RISC-V Pipeline Simulation](https://github.com/Thilakraj116/Samsung-RISV/blob/97eaea4f28b9e097d8ef17ef76f11bbd6075c9d7/task-4/Screenshot%202025-01-21%20225046.png)
 
-![RISC-V Pipeline Simulation]()
+![RISC-V Pipeline Simulation](https://github.com/Thilakraj116/Samsung-RISV/blob/7c543da869a4d7c335f3829c40b598b2a6726241/task-4/Screenshot%202025-01-21%20225633.png)

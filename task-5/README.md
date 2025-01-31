@@ -1,3 +1,5 @@
+# Automated Irrigation Setup
+
 ## Working
 Soil Moisture Sensing:
 The soil moisture sensor measures the moisture content in the soil.

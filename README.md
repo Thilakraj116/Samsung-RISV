@@ -6,10 +6,9 @@
 - **College**: Sahyadri college of engineering and management
 
 ## Tasks
-## Tasks
-- [**Task01**: (#task01-development-of-c-program)
-- [**Task02**: (#task02-simulation-with-spike)
-- [**Task03**: (#task03-description-of-task03)
-- [**Task04**: (#task04-description-of-task04)
-- [**Task05**: (#task05-project-overview)
- 
+- [**Task01**:](https://github.com/YourUsername/YourRepository/tree/main/Task01)
+- [**Task02**:](https://github.com/YourUsername/YourRepository/tree/main/Task02)
+- [**Task03**:](https://github.com/YourUsername/YourRepository/tree/main/Task03)
+- [**Task04**:](https://github.com/YourUsername/YourRepository/tree/main/Task04)
+- [**Task05**:](https://github.com/YourUsername/YourRepository/tree/main/Task05)
+
